@@ -1,0 +1,21 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^5.0.0-beta.1",
+    "mongoose": "^6.3.8"
+  }
+}
